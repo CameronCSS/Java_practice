@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class compountInterest {
+public class compoundInterest {
 
     public static void main(String[] args) {
 
