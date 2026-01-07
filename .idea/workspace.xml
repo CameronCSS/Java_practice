@@ -4,10 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="uploaded junk files">
-      <change afterPath="$PROJECT_DIR$/practice_projects/src/trueFalse.java" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="uploaded junk class files">
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/TempConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/compoundInterest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/compoundInterest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/ifStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/ifStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/madLibs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/madLibs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/printF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/printF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/randomNums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/randomNums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/shoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/shoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/trueFalse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/trueFalse.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java_practice/weightConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/weightConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/compoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/CompoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/ifStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/madLibs.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/MadLibs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/printF.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/PrintF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/randomNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/RandomNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/shoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/trueFalse.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/TrueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/weightConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/WeightConverter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +61,7 @@
   "keyToString": {
     "Application.Calculator.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TempConverter.executor": "Run",
     "Application.compountInterest.executor": "Run",
     "Application.ifStatements.executor": "Run",
     "Application.madLibs.executor": "Run",
@@ -53,6 +69,7 @@
     "Application.randomNums.executor": "Run",
     "Application.shoppingCart.executor": "Run",
     "Application.substrings.executor": "Run",
+    "Application.tempConverter.executor": "Run",
     "Application.trueFalse.executor": "Run",
     "Application.weightConverter.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -99,7 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767557089317</updated>
       <workItem from="1767557093354" duration="14440000" />
-      <workItem from="1767678323979" duration="10192000" />
+      <workItem from="1767678323979" duration="12835000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -173,7 +190,31 @@
       <option name="project" value="LOCAL" />
       <updated>1767813537078</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="explored ternary operator">
+      <option name="closed" value="true" />
+      <created>1767818577359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818577359</updated>
+    </task>
+    <task id="LOCAL-00011" summary="uploaded junk files">
+      <option name="closed" value="true" />
+      <created>1767818585588</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818585588</updated>
+    </task>
+    <task id="LOCAL-00012" summary="uploaded junk class files">
+      <option name="closed" value="true" />
+      <created>1767818594413</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818594413</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +229,9 @@
     <MESSAGE value="fixed name of compoundInterest" />
     <MESSAGE value="explored substring methods" />
     <MESSAGE value="made a lbs to kgs weight converter" />
+    <MESSAGE value="explored ternary operator" />
     <MESSAGE value="uploaded junk files" />
-    <option name="LAST_COMMIT_MESSAGE" value="uploaded junk files" />
+    <MESSAGE value="uploaded junk class files" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded junk class files" />
   </component>
 </project>
