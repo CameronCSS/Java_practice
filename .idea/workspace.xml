@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="explored substring methods">
-      <change afterPath="$PROJECT_DIR$/practice_projects/src/weightConverter.java" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="uploaded junk files">
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/trueFalse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_practice/weightConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/weightConverter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,9 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -48,6 +53,7 @@
     "Application.randomNums.executor": "Run",
     "Application.shoppingCart.executor": "Run",
     "Application.substrings.executor": "Run",
+    "Application.trueFalse.executor": "Run",
     "Application.weightConverter.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -93,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767557089317</updated>
       <workItem from="1767557093354" duration="14440000" />
-      <workItem from="1767678323979" duration="8636000" />
+      <workItem from="1767678323979" duration="10192000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -151,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767812256757</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="made a lbs to kgs weight converter">
+      <option name="closed" value="true" />
+      <created>1767813520591</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767813520591</updated>
+    </task>
+    <task id="LOCAL-00009" summary="uploaded junk files">
+      <option name="closed" value="true" />
+      <created>1767813537078</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767813537078</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +187,8 @@
     <MESSAGE value="created compound calculator" />
     <MESSAGE value="fixed name of compoundInterest" />
     <MESSAGE value="explored substring methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="explored substring methods" />
+    <MESSAGE value="made a lbs to kgs weight converter" />
+    <MESSAGE value="uploaded junk files" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploaded junk files" />
   </component>
 </project>
