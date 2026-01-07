@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class madLibs {
+public class MadLibs {
 
     public static void main(String[] args){
 

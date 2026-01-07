@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class trueFalse {
+public class TrueFalse {
 
     public static void main(String[] args) {
 

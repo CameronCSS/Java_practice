@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class weightConverter {
+public class WeightConverter {
 
     public static void main(String[] args) {
 
