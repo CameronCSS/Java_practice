@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="explored substring methods">
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/weightConverter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="37o6U1jLh6B9fGeTwrV9eeSfs6j" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.compountInterest.executor": "Run",
+    "Application.ifStatements.executor": "Run",
+    "Application.madLibs.executor": "Run",
+    "Application.printF.executor": "Run",
+    "Application.randomNums.executor": "Run",
+    "Application.shoppingCart.executor": "Run",
+    "Application.substrings.executor": "Run",
+    "Application.weightConverter.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="" />
+      <created>1767557089317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767557089317</updated>
+      <workItem from="1767557093354" duration="14440000" />
+      <workItem from="1767678323979" duration="8636000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated module output folders">
+      <option name="closed" value="true" />
+      <created>1767565219423</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767565219423</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moved small projects into one project folder">
+      <option name="closed" value="true" />
+      <created>1767578203605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767578203605</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created random number / coin flip generator with error catching">
+      <option name="closed" value="true" />
+      <created>1767588535662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767588535662</updated>
+    </task>
+    <task id="LOCAL-00004" summary="explore printf variations">
+      <option name="closed" value="true" />
+      <created>1767666830045</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767666830045</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created compound calculator">
+      <option name="closed" value="true" />
+      <created>1767672756444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767672756444</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed name of compoundInterest">
+      <option name="closed" value="true" />
+      <created>1767678458164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767678458165</updated>
+    </task>
+    <task id="LOCAL-00007" summary="explored substring methods">
+      <option name="closed" value="true" />
+      <created>1767812256757</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767812256757</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated module output folders" />
+    <MESSAGE value="moved small projects into one project folder" />
+    <MESSAGE value="Created random number / coin flip generator with error catching" />
+    <MESSAGE value="explore printf variations" />
+    <MESSAGE value="created compound calculator" />
+    <MESSAGE value="fixed name of compoundInterest" />
+    <MESSAGE value="explored substring methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="explored substring methods" />
+  </component>
+</project>
