@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="updated junk java files">
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="Made a calculator using Switches">
+      <change afterPath="$PROJECT_DIR$/out/production/java_practice/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/TempConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/compoundInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/ifStatements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/madLibs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/printF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/randomNums.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/shoppingCart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/substrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/trueFalse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/weightConverter.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +36,10 @@
     &quot;accountId&quot;: &quot;1865e200-c7ac-4f58-baed-f72f06b5746c&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -64,44 +58,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TempConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.compountInterest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ifStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.madLibs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printF.executor&quot;: &quot;Run&quot;,
-    &quot;Application.randomNums.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shoppingCart.executor&quot;: &quot;Run&quot;,
-    &quot;Application.substrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tempConverter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.trueFalse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.weightConverter.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calculator.executor": "Run",
+    "Application.EnhancedSwitches.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TempConverter.executor": "Run",
+    "Application.compountInterest.executor": "Run",
+    "Application.ifStatements.executor": "Run",
+    "Application.madLibs.executor": "Run",
+    "Application.printF.executor": "Run",
+    "Application.randomNums.executor": "Run",
+    "Application.shoppingCart.executor": "Run",
+    "Application.substrings.executor": "Run",
+    "Application.tempConverter.executor": "Run",
+    "Application.trueFalse.executor": "Run",
+    "Application.weightConverter.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.language",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -125,7 +120,7 @@
       <workItem from="1767557093354" duration="14440000" />
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
-      <workItem from="1767838192168" duration="55000" />
+      <workItem from="1767838192168" duration="2611000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -255,11 +250,46 @@
       <option name="project" value="LOCAL" />
       <updated>1767824260007</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="updated java version to 17 so I can use switched (Introduced in 14">
+      <option name="closed" value="true" />
+      <created>1767838335498</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1767838335498</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Did a few base cases using enhanced switches">
+      <option name="closed" value="true" />
+      <created>1767839475258</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1767839475258</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Did a few base cases using enhanced switches">
+      <option name="closed" value="true" />
+      <created>1767839480914</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1767839480914</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated module output folders" />
@@ -277,7 +307,10 @@
     <MESSAGE value="Refactored classes / File names to use Pascal case" />
     <MESSAGE value="updated junk files" />
     <MESSAGE value="updated junk java files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated junk java files" />
+    <MESSAGE value="updated java version to 17 so I can use switched (Introduced in 14" />
+    <MESSAGE value="Did a few base cases using enhanced switches" />
+    <MESSAGE value="Made a calculator using Switches" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made a calculator using Switches" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
