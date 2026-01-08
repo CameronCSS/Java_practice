@@ -25,6 +25,7 @@ public class GuessANumber {
             System.out.print("\nEnter a guess: ");
             guess = scanner.nextInt();
 
+            // because of how I structured the counting when the user reaches 1 chance left they lost.
             if(chances == 1){
                 System.out.println("\n####### YOU LOSE!!! #######");
                 System.out.println("--- The number was [ " + number + " ] ---");
