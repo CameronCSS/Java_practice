@@ -12,5 +12,30 @@ The goal is to build strong fundamentals in:
 
 ## Repository Structure
 
-Each folder is a **standalone mini-project** with its own entry point.
+Each Java Class is a **standalone mini-project**
 
+---
+
+### Current ideas I might build in Java (Or python)
+- Building a forum
+  - learn Spring boot REST API
+  - Spring Security authentication
+  - HIbernate database management
+  - gradle dependency manager
+  - basic react front end
+
+- Chat / photo sharing App
+  - admin panel
+  - cloud stack (AWS/Azure/GCP)
+  - web UI
+  - Spring Security
+  - JPA database management
+
+- Banking App
+  - Full medalion architecture DB
+  - Working Web / mobile App
+  - Spring security user authentication
+  - Data verification
+  - CI/CD
+  - scheduled tasks / Batch jobs
+  - Unit Testing
