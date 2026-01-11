@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="junk java files updated">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="updated readme to explain folder structure">
+      <change beforePath="$PROJECT_DIR$/practice_projects/src/substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/Substrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,7 @@
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
       <workItem from="1767838192168" duration="17826000" />
-      <workItem from="1768158295756" duration="3544000" />
+      <workItem from="1768158295756" duration="4060000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -365,7 +365,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768160901310</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updated readme to explain folder structure">
+      <option name="closed" value="true" />
+      <created>1768161859062</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1768161859062</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated readme to explain folder structure">
+      <option name="closed" value="true" />
+      <created>1768161949589</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1768161949589</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="explore printf variations" />
     <MESSAGE value="created compound calculator" />
     <MESSAGE value="fixed name of compoundInterest" />
     <MESSAGE value="explored substring methods" />
@@ -408,7 +423,8 @@
     <MESSAGE value="created number guessing game" />
     <MESSAGE value="created dice roll game. that shows all dice and total rolled" />
     <MESSAGE value="junk java files updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="junk java files updated" />
+    <MESSAGE value="updated readme to explain folder structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated readme to explain folder structure" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
