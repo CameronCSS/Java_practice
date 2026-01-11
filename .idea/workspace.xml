@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="updated java junk files">
-      <change afterPath="$PROJECT_DIR$/practice_projects/src/Banking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practice_projects/src/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_practice/GuessANumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_practice/GuessANumber.class" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="junk java files updated">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +83,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -126,7 +123,7 @@
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
       <workItem from="1767838192168" duration="17826000" />
-      <workItem from="1768158295756" duration="2394000" />
+      <workItem from="1768158295756" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -336,7 +333,39 @@
       <option name="project" value="LOCAL" />
       <updated>1767855859506</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="created basic banking app in console">
+      <option name="closed" value="true" />
+      <created>1768160863671</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1768160863671</updated>
+    </task>
+    <task id="LOCAL-00028" summary="created number guessing game">
+      <option name="closed" value="true" />
+      <created>1768160874544</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1768160874544</updated>
+    </task>
+    <task id="LOCAL-00029" summary="created dice roll game. that shows all dice and total rolled">
+      <option name="closed" value="true" />
+      <created>1768160891269</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1768160891269</updated>
+    </task>
+    <task id="LOCAL-00030" summary="junk java files updated">
+      <option name="closed" value="true" />
+      <created>1768160901310</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1768160901310</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,9 +383,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated module output folders" />
-    <MESSAGE value="moved small projects into one project folder" />
-    <MESSAGE value="Created random number / coin flip generator with error catching" />
     <MESSAGE value="explore printf variations" />
     <MESSAGE value="created compound calculator" />
     <MESSAGE value="fixed name of compoundInterest" />
@@ -378,7 +404,11 @@
     <MESSAGE value="java class file update" />
     <MESSAGE value="added notes to explain IF statement" />
     <MESSAGE value="updated java junk files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated java junk files" />
+    <MESSAGE value="created basic banking app in console" />
+    <MESSAGE value="created number guessing game" />
+    <MESSAGE value="created dice roll game. that shows all dice and total rolled" />
+    <MESSAGE value="junk java files updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="junk java files updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
