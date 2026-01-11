@@ -38,8 +38,4 @@ Each Java Class is a **standalone mini-project**
   - Data verification
   - CI/CD
   - scheduled tasks / Batch jobs
-<<<<<<< HEAD
-  - Unit Testing
-=======
-  - Unit Testing
->>>>>>> 3e3275919bf4da68d9306358f14f480350363511
+
