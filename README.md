@@ -12,9 +12,10 @@ The goal is to build strong fundamentals in:
 
 ## Repository Structure
 
-Each Java Class is a **standalone mini-project**
-(This is technically a terrible way to organize. <br>
-But it's the most accessible to view each project. So it is what it is )
+> [!NOTE]
+> Each Java Class is a **standalone mini-project**
+
+(This is technically a terrible way to organize. But it's the most accessible to view each project. So it is what it is )
 
 ---
 
