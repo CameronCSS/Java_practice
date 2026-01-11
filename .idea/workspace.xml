@@ -83,7 +83,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -123,7 +123,7 @@
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
       <workItem from="1767838192168" duration="17826000" />
-      <workItem from="1768158295756" duration="2781000" />
+      <workItem from="1768158295756" duration="3544000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
