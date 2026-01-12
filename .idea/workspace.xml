@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="updated readme to explain folder structure">
-      <change beforePath="$PROJECT_DIR$/practice_projects/src/substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice_projects/src/Substrings.java" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="Explored using 2D arrays">
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/QuizGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,8 @@
     "Application.EnhancedSwitches.executor": "Run",
     "Application.GuessANumber.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Numpad.executor": "Run",
+    "Application.QuizGame.executor": "Run",
     "Application.TempConverter.executor": "Run",
     "Application.WhileLoops.executor": "Run",
     "Application.compountInterest.executor": "Run",
@@ -123,7 +126,7 @@
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
       <workItem from="1767838192168" duration="17826000" />
-      <workItem from="1768158295756" duration="4060000" />
+      <workItem from="1768158295756" duration="7326000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -381,7 +384,31 @@
       <option name="project" value="LOCAL" />
       <updated>1768161949589</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updated name of class">
+      <option name="closed" value="true" />
+      <created>1768162380069</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1768162380069</updated>
+    </task>
+    <task id="LOCAL-00034" summary="capitalized class name">
+      <option name="closed" value="true" />
+      <created>1768185705755</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1768185705755</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Explored using 2D arrays">
+      <option name="closed" value="true" />
+      <created>1768185728116</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1768185728116</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,9 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="created compound calculator" />
-    <MESSAGE value="fixed name of compoundInterest" />
-    <MESSAGE value="explored substring methods" />
     <MESSAGE value="made a lbs to kgs weight converter" />
     <MESSAGE value="explored ternary operator" />
     <MESSAGE value="uploaded junk files" />
@@ -424,7 +448,10 @@
     <MESSAGE value="created dice roll game. that shows all dice and total rolled" />
     <MESSAGE value="junk java files updated" />
     <MESSAGE value="updated readme to explain folder structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated readme to explain folder structure" />
+    <MESSAGE value="updated name of class" />
+    <MESSAGE value="capitalized class name" />
+    <MESSAGE value="Explored using 2D arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Explored using 2D arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
