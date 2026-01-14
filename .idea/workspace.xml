@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="Explored using 2D arrays">
-      <change afterPath="$PROJECT_DIR$/practice_projects/src/QuizGame.java" afterDir="false" />
+    <list default="true" id="8658cbac-7347-4046-83e8-57065c86d2b8" name="Changes" comment="updated java junk files">
+      <change afterPath="$PROJECT_DIR$/practice_projects/src/RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +67,7 @@
     "Application.Main.executor": "Run",
     "Application.Numpad.executor": "Run",
     "Application.QuizGame.executor": "Run",
+    "Application.RockPaperScissors.executor": "Run",
     "Application.TempConverter.executor": "Run",
     "Application.WhileLoops.executor": "Run",
     "Application.compountInterest.executor": "Run",
@@ -126,7 +127,7 @@
       <workItem from="1767678323979" duration="16130000" />
       <workItem from="1767837943314" duration="237000" />
       <workItem from="1767838192168" duration="17826000" />
-      <workItem from="1768158295756" duration="7326000" />
+      <workItem from="1768158295756" duration="13464000" />
     </task>
     <task id="LOCAL-00001" summary="updated module output folders">
       <option name="closed" value="true" />
@@ -408,7 +409,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768185728116</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Made a Java Quiz Game">
+      <option name="closed" value="true" />
+      <created>1768186754356</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1768186754356</updated>
+    </task>
+    <task id="LOCAL-00037" summary="updated java junk files">
+      <option name="closed" value="true" />
+      <created>1768186763176</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1768186763176</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="made a lbs to kgs weight converter" />
     <MESSAGE value="explored ternary operator" />
     <MESSAGE value="uploaded junk files" />
     <MESSAGE value="uploaded junk class files" />
@@ -442,7 +458,6 @@
     <MESSAGE value="coded a Random number Guessing game" />
     <MESSAGE value="java class file update" />
     <MESSAGE value="added notes to explain IF statement" />
-    <MESSAGE value="updated java junk files" />
     <MESSAGE value="created basic banking app in console" />
     <MESSAGE value="created number guessing game" />
     <MESSAGE value="created dice roll game. that shows all dice and total rolled" />
@@ -451,7 +466,9 @@
     <MESSAGE value="updated name of class" />
     <MESSAGE value="capitalized class name" />
     <MESSAGE value="Explored using 2D arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Explored using 2D arrays" />
+    <MESSAGE value="Made a Java Quiz Game" />
+    <MESSAGE value="updated java junk files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated java junk files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
